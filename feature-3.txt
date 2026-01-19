@@ -1,2 +1,2 @@
 this is feature 3.txt
-feature 3 mod
+some change feature 3 mod
